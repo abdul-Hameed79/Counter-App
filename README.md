@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with Create Counter App
 
 This project was bootstrapped with [Create React App].
+
+# Screen Shot
+![Counter-app](https://github.com/user-attachments/assets/0c38e41d-1613-4589-ae31-16994ef70814)
+
 
 ## Available Scripts
 
